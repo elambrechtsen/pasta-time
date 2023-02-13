@@ -1,2 +1,8 @@
 # pasta-time
-investigation into flask
+investigation into:
+- HTML
+- CSS
+- Bootstrap
+- Python
+- flask
+- sqlite
